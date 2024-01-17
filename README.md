@@ -1,6 +1,4 @@
-# Submission Dicoding "Belajar Data Analytics dengan Python"
-
-## Project Data Analytics
+# Project Data Analytics
 
 Repositori berisi projek analisis data yang dibuat dengan menggunakan **Streamlit** sebagai dashboard framework.
 
