@@ -29,7 +29,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
 
    ```shell
-   git clone (akan diupdate kedepannya)
+   git clone IrvandyIN/Brazilian-E-Commerce-Analysis
    ```
 2. Buat Virtual Environtment:
 
